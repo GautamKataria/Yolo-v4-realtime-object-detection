@@ -8,4 +8,4 @@ copy the contents into the x64 folder in your darknet build
 
 Also dont forget to download the weights for yolov4 model trained on coco dataset with 80 classes
 
-[Link to weights file download]https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+[Link to weights file download here](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
