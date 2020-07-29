@@ -5,11 +5,11 @@ repository link --> [Prerequisites to yolov4](https://github.com/GautamKataria/Y
 
 This repository houses the code required to run a state of the art yolo-v4 model to detect objects in realtime 
 
-COPY the contents into the x64 folder in your darknet build
+#### COPY the contents into the x64 folder in your darknet build
 
-MOVE the mp4 files into the data folder inside the x64 folder of your darknet build
+#### MOVE the mp4 files into the data folder inside the x64 folder of your darknet build
 
-Also dont forget to download the weights for yolov4 model trained on coco dataset with 80 classes move it to the same x64 folder
+####Also dont forget to download the weights for yolov4 model trained on coco dataset with 80 classes move it to the same x64 folder
 
 [Link to weights file download here](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
 
